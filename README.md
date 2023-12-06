@@ -5,6 +5,8 @@
 - npm install
 - 拷贝node_modules到当前根目录
 - 执行脚本：node ./init.js
+- 等待init.js执行完后执行upload.sh，需根据具体情况更改
+- 执行upload.sh之后需要输入Nexus账号/密码/邮箱
 
 ## 说明
 
